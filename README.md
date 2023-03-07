@@ -6,8 +6,8 @@
 
 # Mes réseaux sociaux :
 
-#### * [Mon linkedin](https://www.linkedin.com/in/arthur-philippe)
-#### * [Mon Github](https://github.com/Voltoxx)
-#### * [Mon Linketree](https://linktr.ee/arthur_philippe)
-#### * 🚧 Mon site web est en construction 🚧
+#### - [Mon linkedin](https://www.linkedin.com/in/arthur-philippe)
+#### - [Mon Github](https://github.com/Voltoxx)
+#### - [Mon Linketree](https://linktr.ee/arthur_philippe)
+#### - 🚧 Mon site web est en construction 🚧
 
