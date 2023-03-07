@@ -2,7 +2,7 @@
 
 # Bonjour, moi c'est Arthur ! 👋
 
-#### 🌊 Bienvenue sur mon profil Github. Je suis un **jeune développeur web** de 21 ans, étudiant à la **Normandie Web School** à Rouen afin d'obtenir un Bachelor chef de projet digital. À la Normandie Web School on apprend le **développement web**, **le marketing**, **la communication**, enfin bref tout ce qu'il y a dans le **web**.
+#### 🌊 Bienvenue sur mon profil Github. Je suis un jeune développeur web de 21 ans, étudiant à la Normandie Web School à Rouen afin d'obtenir un Bachelor chef de projet digital. À la Normandie Web School on apprend le développement web, le marketing, la communication, enfin bref tout ce qu'il y a dans le web.
 
 # Mes réseaux sociaux :
 
