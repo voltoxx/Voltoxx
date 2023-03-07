@@ -6,7 +6,7 @@
 
 ### Mes réseaux sociaux :
 ```
-Linkedin : https://www.linkedin.com/in/arthur-philippe
+Linkedin : [Mon linkedin](https://www.linkedin.com/in/arthur-philippe)
 Github : https://github.com/Voltoxx
 Linktree : https://linktr.ee/arthur_philippe
 🚧 Mon site web est en construction 🚧
